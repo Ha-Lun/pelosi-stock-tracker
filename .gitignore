@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/*.db
+data/cache/
+logs/
+.claude/
+CONTEXT.md
+
+# Build
+dist/
+build/
+*.egg-info/
